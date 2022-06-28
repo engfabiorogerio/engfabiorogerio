@@ -1,4 +1,4 @@
-## Oiii eu sou o Fábio Rogério, Engenheiro Eletricista, e estudante de programação (Full Stack technology)!
+## Hi, I´m Fábio Rogério, Electrical Engineer and Full Stack developer!
 
 <div align="center">
   <a href="https://github.com/engfabiorogerio">
